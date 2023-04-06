@@ -1,5 +1,5 @@
-# Git-battle Redux
-[Demo](https://git-battle-redux.vercel.app/)
+# Git-battle Redux-Toolkit
+[Demo](https://git-battle-redux-toolkit.vercel.app/)
 
 This app was created using the GitHub API to offer users fast and easy access to repositories.
 
@@ -12,12 +12,12 @@ This app was created using the GitHub API to offer users fast and easy access to
 I used:
 
 - ReactJS: functional components and hooks
-- Redux
+- Redux-Toolkit
 - React-router-dom
 - GITHUB API
 - Axios
 - Material-UI
-- Netlify for Demo
+- Vercel for Demo
 
 #### To start the app do (development):
 
